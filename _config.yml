@@ -1,0 +1,6 @@
+capuchin:
+  from_email: vyki.englert@gmail.com
+  from_name: Vyki Englert
+  list_id: YOUR_ID
+  template_id: YOUR_TEMPLATE_ID
+  delivery_time: "08:30:00"
